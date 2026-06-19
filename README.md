@@ -1,17 +1,15 @@
 ## Hi there 👋 I'm Vyrdin  Light Chaser
 Cloud Security & Linux Operation Engineer
 专注云边界防御、Linux底层运维、红蓝攻防实践，仓库用于代码备份、实验脚本、架构记录。
+👀 I’m interested in artificial intelligence, cloud computing, and container orchestration and monitoring technologies.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Vyrdin&show_icons=true&theme=algolia" alt="Vyrdin's github stats" />
 
 🌱 （works & play）
 
-👀 I’m interested in artificial intelligence, cloud computing, and container orchestration and monitoring technologies.
-
-
 ☣🔨 Skills and Tools
 ## 🛡️ Tech Stack
-![Skills](https://skillicons.dev/icons?i=linux,aws,docker,git,bash,python,nginx)
+![Skills](https://skillicons.dev/icons?i=linux,aws,docker,git,bash,python,nginx,go,visualstudio,visualstudiocode)
 
 - ☁️云平台：AWS 全栈运维、云上资产管控、防火墙边界防护
 - 🔒安全方向：内网隔离、漏洞研判、流量审计、红蓝攻防演练
@@ -22,11 +20,7 @@ Cloud Security & Linux Operation Engineer
   ![](https://img.icons8.com/?size=96&id=39292&format=png)
   ![](https://img.icons8.com/?size=96&id=vo1jWiJUhREU&format=png)
   ![](https://ops.spug.cc/img/logo-spug-white.png)
-  ✨ 
-   - [![Go](https://img.shields.io/badge/-Go-00ACD7?style=flat-square&logo=Go&logoColor=fff)](https://golang.org/)
-   - [![Python](https://img.shields.io/badge/-Python-FFBB00?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
-   - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg)
-   - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
+
   <div align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
