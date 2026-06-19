@@ -6,13 +6,6 @@ Cloud Security & Linux Operation Engineer
 
 🌱 （works & play）
 
-✨ 技术栈
-
-   - [![Go](https://img.shields.io/badge/-Go-00ACD7?style=flat-square&logo=Go&logoColor=fff)](https://golang.org/)
-   - [![Python](https://img.shields.io/badge/-Python-FFBB00?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
-   - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg)
-   - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
-
 👀 I’m interested in artificial intelligence, cloud computing, and container orchestration and monitoring technologies.
 
 
@@ -29,6 +22,11 @@ Cloud Security & Linux Operation Engineer
   ![](https://img.icons8.com/?size=96&id=39292&format=png)
   ![](https://img.icons8.com/?size=96&id=vo1jWiJUhREU&format=png)
   ![](https://ops.spug.cc/img/logo-spug-white.png)
+  ✨ 
+   - [![Go](https://img.shields.io/badge/-Go-00ACD7?style=flat-square&logo=Go&logoColor=fff)](https://golang.org/)
+   - [![Python](https://img.shields.io/badge/-Python-FFBB00?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
+   - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg)
+   - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
   <div align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
@@ -106,7 +104,7 @@ Cloud Security & Linux Operation Engineer
 [![Windows](https://static.wikia.nocookie.net/windows/images/5/50/Fanonlink.png/revision/latest/scale-to-width-down/80?cb=20250901113603)](https://azure.microsoft.com) [![CentOS](https://img.shields.io/badge/-CentOS-262474?logo=centos&style=flat-square)](https://www.centos.org/) [![Debian](https://img.shields.io/badge/-Debian-CE0056?logo=Debian&style=flat-square)](https://www.debian.org/) [![Ubuntu](https://img.shields.io/badge/-Ubuntu-FF6347?logo=Ubuntu&style=flat-square)](https://ubuntu.com/) [![Redhat](https://img.shields.io/badge/-Redhat-FF0000?logo=Redhat&style=flat-square)](https://www.redhat.com/en/)
 
 🔭 ☣ 
-   --->>
+      --->>
 ## 📂 倉庫說明
 所有倉庫僅個人程式碼存檔、科技實驗，包含：
 1.運維自動化腳本、伺服器配置範本
