@@ -1,11 +1,9 @@
-## Hi there 👋 I'm Vyrdin  Light Chaser  
+## Hi there 👋 I'm Vyrdin  Light Chaser   
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Vyrdin&show_icons=true&theme=algolia" alt="Vyrdin's github stats" />  
-Cloud Security & Linux Operation Engineer  
-专注云边界防御  
-Linux底层运维  
-红蓝攻防实践  
-仓库用于代码备份  
-实验脚本、架构记录  
+Cloud Security & Linux Operation Engineer   
+专注云边界防御    
+Linux底层运维    
+红蓝攻防实践
 
 👀 I’m interested in artificial intelligence, cloud computing, and container orchestration and monitoring technologies.
 ## 🛡️ Tech Stack
