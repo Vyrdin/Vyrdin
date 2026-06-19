@@ -4,12 +4,8 @@ Cloud Security & Linux Operation Engineer
 👀 I’m interested in artificial intelligence, cloud computing, and container orchestration and monitoring technologies.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Vyrdin&show_icons=true&theme=algolia" alt="Vyrdin's github stats" />
-
-🌱 （works & play）
-
-☣🔨 Skills and Tools
 ## 🛡️ Tech Stack
-![Skills](https://skillicons.dev/icons?i=linux,aws,docker,git,bash,python,nginx,go,visualstudio,visualstudiocode)
+![Skills](https://skillicons.dev/icons?i=linux,aws,docker,git,bash,python,nginx,go,)
 
 - ☁️云平台：AWS 全栈运维、云上资产管控、防火墙边界防护
 - 🔒安全方向：内网隔离、漏洞研判、流量审计、红蓝攻防演练
