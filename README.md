@@ -1,4 +1,4 @@
-## Hi there 👋I'm Vyrdin  追光者
+## Hi there 👋 I'm Vyrdin  追光者
 Cloud Security & Linux Operation Engineer
 专注云边界防御、Linux底层运维、红蓝攻防实践，仓库用于代码备份、实验脚本、架构记录。
 
@@ -16,7 +16,7 @@ Cloud Security & Linux Operation Engineer
 👀 I’m interested in artificial intelligence, cloud computing, and container orchestration and monitoring technologies.
 
 
-##☣🔨 Skills and Tools
+☣##🔨 Skills and Tools
 
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
@@ -96,7 +96,7 @@ Cloud Security & Linux Operation Engineer
     </a>
 </div>
   
- - [![Windows](https://static.wikia.nocookie.net/windows/images/5/50/Fanonlink.png/revision/latest/scale-to-width-down/80?cb=20250901113603)](https://azure.microsoft.com)  [![CentOS](https://img.shields.io/badge/-CentOS-262474?logo=centos&style=flat-square)](https://www.centos.org/)  [![Debian](https://img.shields.io/badge/-Debian-CE0056?logo=Debian&style=flat-square)](https://www.debian.org/)   [![Ubuntu](https://img.shields.io/badge/-Ubuntu-FF6347?logo=Ubuntu&style=flat-square)](https://ubuntu.com/)  [![Redhat](https://img.shields.io/badge/-Redhat-FF0000?logo=Redhat&style=flat-square)](https://www.redhat.com/en/)
+[![Windows](https://static.wikia.nocookie.net/windows/images/5/50/Fanonlink.png/revision/latest/scale-to-width-down/80?cb=20250901113603)](https://azure.microsoft.com)  [![CentOS](https://img.shields.io/badge/-CentOS-262474?logo=centos&style=flat-square)](https://www.centos.org/)  [![Debian](https://img.shields.io/badge/-Debian-CE0056?logo=Debian&style=flat-square)](https://www.debian.org/)   [![Ubuntu](https://img.shields.io/badge/-Ubuntu-FF6347?logo=Ubuntu&style=flat-square)](https://ubuntu.com/)  [![Redhat](https://img.shields.io/badge/-Redhat-FF0000?logo=Redhat&style=flat-square)](https://www.redhat.com/en/)
 ## 🛠 Tech Stack
 
 - 云平台：AWS 全栈运维、云上资产管控、防火墙边界防护
@@ -105,12 +105,12 @@ Cloud Security & Linux Operation Engineer
 
 🔭 ☣ 
    --->>
-## 📂 仓库说明
-所有仓库仅个人代码存档、技术实验，包含：
-1. 运维自动化脚本、服务器配置模板
-2. 云安全防御策略、边界访问控制方案
-3. Linux底层调试、故障复盘案例
-4. 渗透测试学习记录（仅合规实验环境）
+## 📂 倉庫說明
+所有倉庫僅個人程式碼存檔、科技實驗，包含：
+1.運維自動化腳本、伺服器配置範本
+2.雲安全防禦策略、邊界存取控制方案
+3. Linux底層調試、故障複盤案例
+4.滲透測試學習記錄（僅合規實驗環境）
 
 
          
