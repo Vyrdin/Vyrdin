@@ -96,7 +96,7 @@ Cloud Security & Linux Operation Engineer
     </a>
 </div>
   
-[![Windows](https://static.wikia.nocookie.net/windows/images/5/50/Fanonlink.png/revision/latest/scale-to-width-down/80?cb=20250901113603)](https://azure.microsoft.com)  [![Unix](https://img.icons8.com/?size=96&id=17851&format=png)](https://www.unix.org/) [![CentOS](https://img.shields.io/badge/-CentOS-262474?logo=centos&style=flat-square)](https://www.centos.org/) [![Debian](https://img.shields.io/badge/-Debian-CE0056?logo=Debian&style=flat-square)](https://www.debian.org/) [![Ubuntu](https://img.shields.io/badge/-Ubuntu-FF6347?logo=Ubuntu&style=flat-square)](https://ubuntu.com/) [![Redhat](https://img.shields.io/badge/-Redhat-FF0000?logo=Redhat&style=flat-square)](https://www.redhat.com/en/)
+[![Unix](https://img.icons8.com/?size=96&id=17851&format=png)](https://www.unix.org/) [![Windows](https://static.wikia.nocookie.net/windows/images/5/50/Fanonlink.png/revision/latest/scale-to-width-down/80?cb=20250901113603)](https://azure.microsoft.com)  [![CentOS](https://img.shields.io/badge/-CentOS-262474?logo=centos&style=flat-square)](https://www.centos.org/) [![Debian](https://img.shields.io/badge/-Debian-CE0056?logo=Debian&style=flat-square)](https://www.debian.org/) [![Ubuntu](https://img.shields.io/badge/-Ubuntu-FF6347?logo=Ubuntu&style=flat-square)](https://ubuntu.com/) [![Redhat](https://img.shields.io/badge/-Redhat-FF0000?logo=Redhat&style=flat-square)](https://www.redhat.com/en/)
 ## 🛠 Tech Stack
 
 - 云平台：AWS 全栈运维、云上资产管控、防火墙边界防护
