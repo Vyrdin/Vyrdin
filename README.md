@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Vyrdin  Light Chaser  
 Cloud Security & Linux Operation Engineer
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Vyrdin&show_icons=true&theme=algolia" alt="Vyrdin's github stats" />  
 专注云边界防御  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Vyrdin&show_icons=true&theme=algolia" alt="Vyrdin's github stats" />  
 Linux底层运维  
 红蓝攻防实践  
 仓库用于代码备份  
@@ -102,10 +102,10 @@ Linux底层运维
 ## 📂 倉庫說明
 所有倉庫僅個人程式碼存檔、科技實驗，包含：  
 
--運維自動化腳本、伺服器配置範本  
--雲安全防禦策略、邊界存取控制方案  
--Linux底層調試、故障複盤案例  
--滲透測試學習記錄（僅合規實驗環境）    
+- 運維自動化腳本、伺服器配置範本  
+- 雲安全防禦策略、邊界存取控制方案  
+- Linux底層調試、故障複盤案例  
+- 滲透測試學習記錄（僅合規實驗環境）    
 
 
          
