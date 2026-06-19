@@ -1,4 +1,129 @@
-## Hi there 👋
+## Hi there 👋I'm Vyrdin  追光者
+Cloud Security & Linux Operation Engineer
+专注云边界防御、Linux底层运维、红蓝攻防实践，仓库用于代码备份、实验脚本、架构记录。
+
+## 🛠 Tech Stack
+
+- 云平台：AWS 全栈运维、云上资产管控、防火墙边界防护
+- 安全方向：内网隔离、漏洞研判、流量审计、红蓝攻防演练
+- 日常工具：Shell脚本自动化、权限审计、系统稳定性调优
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Vyrdin&show_icons=true&theme=algolia" alt="Vyrdin's github stats" />
+
+🌱 正在（works & play）
+
+✨ 技术栈
+
+   - [![Go](https://img.shields.io/badge/-Go-00ACD7?style=flat-square&logo=Go&logoColor=fff)](https://golang.org/)
+   - [![Python](https://img.shields.io/badge/-Python-FFBB00?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
+   - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg)
+   - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
+
+👀 I’m interested in artificial intelligence, cloud computing, and container orchestration and monitoring technologies.
+
+
+☣🔨 Skills and Tools
+
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
+  ![](https://img.icons8.com/?size=96&id=39292&format=png)
+  ![](https://img.icons8.com/?size=96&id=vo1jWiJUhREU&format=png)
+  ![](https://ops.spug.cc/img/logo-spug-white.png)
+
+
+  <div align="center">
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+    </a>
+    <a href="www.kubernetes.io" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/?size=96&id=cvzmaEA4kC0o&format=png" alt=" Kubernetes" width="40" height="40" />
+    </a>
+    <a href="https://golang.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
+    </a>
+    <a href="https://redis.io" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" />
+    </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40" />
+    </a>
+    <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="40" height="40" />
+    </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="40" height="40" />
+    </a>
+    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" />
+    </a>
+    <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40" />
+    </a>
+    <a href="https://grafana.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" />
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
+    </a>
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
+    </a>
+</div>
+
+<div align="center">
+     </a>
+    <a href="hexo.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/>
+    </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" />
+    </a>
+    <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" />
+    </a>
+    <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij idea" width="40" height="40" />
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
+    </a>
+</div>
+
+  
+ - [![Windows](https://static.wikia.nocookie.net/windows/images/5/50/Fanonlink.png/revision/latest/scale-to-width-down/80?cb=20250901113603)](https://azure.microsoft.com)  [![CentOS](https://img.shields.io/badge/-CentOS-262474?logo=centos&style=flat-square)](https://www.centos.org/)  [![Debian](https://img.shields.io/badge/-Debian-CE0056?logo=Debian&style=flat-square)](https://www.debian.org/)   [![Ubuntu](https://img.shields.io/badge/-Ubuntu-FF6347?logo=Ubuntu&style=flat-square)](https://ubuntu.com/)  [![Redhat](https://img.shields.io/badge/-Redhat-FF0000?logo=Redhat&style=flat-square)](https://www.redhat.com/en/)
+
+
+☣ 
+   --->>
+## 📂 仓库说明
+所有仓库仅个人代码存档、技术实验，包含：
+1. 运维自动化脚本、服务器配置模板
+2. 云安全防御策略、边界访问控制方案
+3. Linux底层调试、故障复盘案例
+4. 渗透测试学习记录（仅合规实验环境）
+## 📊 主页访问量
+
+         
+
+<!---
+Military-tactics/Military-tactics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 
 <!--
 **Vyrdin/Vyrdin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
