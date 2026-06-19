@@ -1,9 +1,10 @@
 ## Hi there 👋 I'm Vyrdin  Light Chaser
 Cloud Security & Linux Operation Engineer
-专注云边界防御、Linux底层运维、红蓝攻防实践，仓库用于代码备份、实验脚本、架构记录。
+专注云边界防御、Linux底层运维、红蓝攻防实践
+仓库用于代码备份、实验脚本、架构记录。  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Vyrdin&show_icons=true&theme=algolia" alt="Vyrdin's github stats" />  
 
 👀 I’m interested in artificial intelligence, cloud computing, and container orchestration and monitoring technologies.
-
 
 ## 🛡️ Tech Stack
 ![Skills](https://skillicons.dev/icons?i=linux,aws,docker,git,bash,python,nginx,go)
@@ -11,8 +12,6 @@ Cloud Security & Linux Operation Engineer
 - ☁️云平台：AWS 全栈运维、云上资产管控、防火墙边界防护
 - 🔒安全方向：内网隔离、漏洞研判、流量审计、红蓝攻防演练
 - 📡日常工具：Shell脚本自动化、权限审计、系统稳定性调优
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Vyrdin&show_icons=true&theme=algolia" alt="Vyrdin's github stats" />  
 
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
@@ -99,11 +98,12 @@ Cloud Security & Linux Operation Engineer
 🔭 ☣ 
       --->>
 ## 📂 倉庫說明
-所有倉庫僅個人程式碼存檔、科技實驗，包含：
-1.運維自動化腳本、伺服器配置範本
-2.雲安全防禦策略、邊界存取控制方案
-3.Linux底層調試、故障複盤案例
-4.滲透測試學習記錄（僅合規實驗環境）
+所有倉庫僅個人程式碼存檔、科技實驗，包含：  
+
+-運維自動化腳本、伺服器配置範本  
+-雲安全防禦策略、邊界存取控制方案  
+-Linux底層調試、故障複盤案例  
+-滲透測試學習記錄（僅合規實驗環境）    
 
 
          
