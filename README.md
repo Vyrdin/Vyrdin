@@ -8,7 +8,7 @@ Linux底层运维
 
 👀 I’m interested in artificial intelligence, cloud computing, and container orchestration and monitoring technologies.
 ## 🛡️ Tech Stack
-![Skills](https://skillicons.dev/icons?i=linux,aws,docker,git,bash,python,nginx,go)
+![Skills](https://skillicons.dev/icons?i=linux,aws,docker,git,bash,python,nginx,go&theme=dark)
 
 - ☁️云平台：AWS 全栈运维、云上资产管控、防火墙边界防护
 - 🔒安全方向：内网隔离、漏洞研判、流量审计、红蓝攻防演练
